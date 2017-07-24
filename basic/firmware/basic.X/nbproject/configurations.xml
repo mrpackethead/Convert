@@ -2629,6 +2629,816 @@
         <makeCustomizationEnableLongLines>false</makeCustomizationEnableLongLines>
         <makeCustomizationNormalizeHexFile>false</makeCustomizationNormalizeHexFile>
       </makeCustomizationType>
+      <item path="../../../../../framework/bootloader/src/bootloader.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/bootloader/src/datastream/datastream.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/bootloader/src/datastream/datastream_udp.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/bootloader/src/nvm.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/crypto/src/des3.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/driver.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/driver_common.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethmac/drv_ethmac.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethmac/src/drv_ethmac_local.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethmac/src/dynamic/_eth_dcpt_lists.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethmac/src/dynamic/drv_ethmac.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethmac/src/dynamic/drv_ethmac_lib.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethmac/src/dynamic/drv_ethmac_lib.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethphy/drv_ethphy.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethphy/src/drv_ethphy_local.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethphy/src/dynamic/drv_ethphy.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethphy/src/dynamic/drv_extphy_dp83640.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethphy/src/dynamic/drv_extphy_dp83848.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethphy/src/dynamic/drv_extphy_ip101gr.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethphy/src/dynamic/drv_extphy_ksz8061.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethphy/src/dynamic/drv_extphy_regs.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethphy/src/dynamic/drv_extphy_smsc8700.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethphy/src/dynamic/drv_extphy_smsc8720.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethphy/src/dynamic/drv_extphy_smsc8740.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethphy/src/dynamic/drv_extphy_smsc8740.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/ethphy/src/dynamic/drv_extphy_smsc9303.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/tmr/drv_tmr.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/tmr/drv_tmr_compatibility.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/tmr/drv_tmr_mapping.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/tmr/src/drv_tmr_local.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/tmr/src/drv_tmr_variant_mapping.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/tmr/src/dynamic/drv_tmr.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/driver/tmr/tmr_definitions_pic32m.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/net/pres/net_pres.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/osal/osal.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/osal/osal_definitions.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/osal/osal_impl_basic.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/clk/sys_clk.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/clk/sys_clk_compatibility.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/clk/sys_clk_mapping.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/common/sys_buffer.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/common/sys_common.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/common/sys_module.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/common/sys_queue.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/debug/sys_debug.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/fs/sys_fs.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/int/src/sys_int_pic32.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/int/src/sys_int_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/int/sys_int.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/int/sys_int_mapping.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/ports/sys_ports.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/ports/sys_ports_definitions.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/random/src/sys_random.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/random/src/sys_random_local.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/random/sys_random.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/system.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/tmr/src/sys_tmr.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/tmr/src/sys_tmr_local.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/system/tmr/sys_tmr.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/arp.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/berkeley_api.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/ddns.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/dhcp.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/dhcps.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/dhcpv6.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/dns.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/dnss.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/ftp.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/http.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/http_net.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/icmp.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/icmpv6.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/igmp.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/iperf.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/ipv4.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/ipv6.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/lldp.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/nbns.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/ndp.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/smtp.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/smtpc.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/snmp.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/snmpv3.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/sntp.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/arp.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/arp_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/arp_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/berkeley_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/common/helpers.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/common/helpers.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/crypto/aes.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/crypto/aes_cbc.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/crypto/aes_cfb.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/crypto/aes_ctr.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/crypto/aes_ecb.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/crypto/aes_ecb_pic32.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/crypto/aes_ofb.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/ddns_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/dhcp.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/dhcp_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/dhcp_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/dhcps_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/dhcps_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/dhcpv6_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/dhcpv6_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/dns.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/dns_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/dns_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/dnss_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/dnss_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/ftp_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/ftp_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/hash_fnv.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/hash_fnv.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/http_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/http_net_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/http_net_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/http_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/icmp_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/icmpv6_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/igmp_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/igmp_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/iperf_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/ipv4.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/ipv4_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/ipv4_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/ipv6_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/ipv6_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/link_list.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/lldp_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/lldp_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/lldp_tlv.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/nbns_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/ndp_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/ndp_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/oahash.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/oahash.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/smtp_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/smtpc_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/smtpc_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/snmp_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/snmp_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/snmpv3_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/sntp_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcp_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcp_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_announce_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_commands_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_heap_alloc.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_heap_alloc.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_heap_internal.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_helper_c32.S"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_helpers.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_helpers_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_manager.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_manager_control.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_module_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_notify.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_notify.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_packet.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_packet.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_reboot_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tcpip_types.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/telnet_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tftpc_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/tftpc_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/udp.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/udp_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/udp_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/zero_conf_helper.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/zero_conf_link_local_private.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/src/zero_conf_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/tcp.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/tcpip.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/tcpip_announce.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/tcpip_commands.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/tcpip_common_ports.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/tcpip_ethernet.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/tcpip_heap.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/tcpip_helpers.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/tcpip_mac.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/tcpip_mac_object.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/tcpip_manager.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/tcpip_reboot.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/telnet.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/tftpc.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/tls.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/udp.h" ex="true" overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/zero_conf_link_local.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../../../../../framework/tcpip/zero_conf_multicast_dns.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/bsp/bsp.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/bsp/bsp.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/btl_mz.ld"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/framework/system/clk/src/sys_clk_pic32mz.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/framework/system/devcon/src/sys_devcon.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/framework/system/devcon/src/sys_devcon_cache.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/framework/system/devcon/src/sys_devcon_cache_pic32mz.S"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/framework/system/devcon/src/sys_devcon_local.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/framework/system/devcon/src/sys_devcon_pic32mz.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/framework/system/devcon/sys_devcon.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/framework/system/memory/smc_pic32c/src/sys_memory_smc_static.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/framework/system/memory/smc_pic32c/src/sys_memory_smc_static.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/framework/system/memory/smc_pic32c/sys_memory_smc.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/framework/system/ports/src/sys_ports_static.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/framework/system/reset/src/sys_reset.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/framework/system/reset/sys_reset.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/system_config.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/system_definitions.h"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/system_exceptions.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/system_init.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/system_interrupt.c"
+            ex="true"
+            overriding="false">
+      </item>
+      <item path="../src/system_config/udp_pic32mz_ef_sk/system_tasks.c"
+            ex="true"
+            overriding="false">
+      </item>
       <C32>
         <property key="additional-warnings" value="false"/>
         <property key="addresss-attribute-use" value="false"/>

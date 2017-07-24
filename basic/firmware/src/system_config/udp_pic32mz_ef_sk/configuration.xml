@@ -6,7 +6,7 @@
   </DisplayManager>
   <General>
     <HarmonyPath dnOrder="0" path="../../.."/>
-    <Processor dnOrder="1" name="PIC32MZ2048EFH144"/>
+    <Processor dnOrder="1" name="PIC32MZ2048EFM144"/>
     <Board dnOrder="2" name=""/>
     <ForceOptimization dnOrder="3" flag="true"/>
     <MergeStrategy dnOrder="4" flag="ALL"/>
