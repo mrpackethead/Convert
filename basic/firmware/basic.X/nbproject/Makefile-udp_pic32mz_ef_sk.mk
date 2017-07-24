@@ -89,7 +89,7 @@ ifneq ($(INFORMATION_MESSAGE), )
 endif
 	${MAKE}  -f nbproject/Makefile-udp_pic32mz_ef_sk.mk dist/${CND_CONF}/${IMAGE_TYPE}/basic.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
 
-MP_PROCESSOR_OPTION=32MZ2048EFH144
+MP_PROCESSOR_OPTION=32MZ2048EFM144
 MP_LINKER_FILE_OPTION=,--script="..\src\system_config\udp_pic32mz_ef_sk\btl_mz.ld"
 # ------------------------------------------------------------------------------------
 # Rules for buildStep: assemble
