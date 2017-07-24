@@ -27,11 +27,11 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 PROJECTNAME=basic.X
 
 # Active Configuration
-DEFAULTCONF=udp_pic32mz_ef_sk
+DEFAULTCONF=chocblock
 CONF=${DEFAULTCONF}
 
 # All Configurations
-ALLCONFS=udp_pic32mz_ef_sk 
+ALLCONFS=udp_pic32mz_ef_sk chocblock 
 
 
 # build
@@ -46,12 +46,14 @@ ALLCONFS=udp_pic32mz_ef_sk
 # clobber
 .clobber-impl: .clobber-pre .depcheck-impl
 	    ${MAKE} SUBPROJECTS=${SUBPROJECTS} CONF=udp_pic32mz_ef_sk clean
+	    ${MAKE} SUBPROJECTS=${SUBPROJECTS} CONF=chocblock clean
 
 
 
 # all
 .all-impl: .all-pre .depcheck-impl
 	    ${MAKE} SUBPROJECTS=${SUBPROJECTS} CONF=udp_pic32mz_ef_sk build
+	    ${MAKE} SUBPROJECTS=${SUBPROJECTS} CONF=chocblock build
 
 
 
